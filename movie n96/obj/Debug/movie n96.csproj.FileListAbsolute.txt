@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10A_HİLAL\movie n96\movie n96\bin\Debug\movie n96.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10A_HİLAL\movie n96\movie n96\bin\Debug\movie n96.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_HİLAL\movie n96\movie n96\bin\Debug\movie n96.pdb
+C:\Users\User\Desktop\KORUMASIZ\10A_HİLAL\movie n96\movie n96\obj\Debug\movie n96.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_HİLAL\movie n96\movie n96\obj\Debug\movie n96.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_HİLAL\movie n96\movie n96\obj\Debug\movie_n96.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_HİLAL\movie n96\movie n96\obj\Debug\movie_n96.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_HİLAL\movie n96\movie n96\obj\Debug\movie n96.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_HİLAL\movie n96\movie n96\obj\Debug\movie n96.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_HİLAL\movie n96\movie n96\obj\Debug\movie n96.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_HİLAL\movie n96\movie n96\obj\Debug\movie n96.pdb
